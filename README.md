@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/civicmind-banner.png" alt="CivicMind AI Banner">
+</p>
+
 # CivicMind AI
 
 ### AI-Powered Governance Intelligence & Citizen Interaction Platform
